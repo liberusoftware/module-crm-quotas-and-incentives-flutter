@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-quotas-and-incentives-flutter",
+  "capabilityKey": "liberusoftware/module-crm-quotas-and-incentives",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_quotas_and_incentives_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/quotas-and-incentives.md",
+  "presentationPlan": "projects/crm/flutter/quotas-and-incentives.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
